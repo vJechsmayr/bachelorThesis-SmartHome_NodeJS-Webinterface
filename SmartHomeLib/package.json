@@ -1,0 +1,14 @@
+{
+  "name": "smart-home-lib",
+  "version": "1.0.0",
+  "description": "SmartHomeLib",
+  "main": "index.js",
+  "author": {
+    "name": "Viktoria"
+  },
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "events": "^1.1.1",
+    "util": "^0.10.3"
+  }
+}

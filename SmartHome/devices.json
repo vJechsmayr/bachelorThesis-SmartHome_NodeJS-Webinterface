@@ -1,0 +1,1 @@
+[{"id":2,"name":"Büro","subDevices":[{"id":1,"type":2,"name":"Temperatursensor"},{"id":2,"type":1,"name":"Licht (mit Taster)"},{"id":3,"type":2,"name":"Helligkeitssensor (neben PC)"},{"id":4,"type":1,"name":"Licht (UI only)"}]}]
